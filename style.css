@@ -1,0 +1,99 @@
+body{
+	background-color: #000000;
+}
+#conteneur{
+    border: 1px solid black;
+	background-image: url("photos/background_image.jpeg");
+	height: 630px;
+	margin: 0 80px 0 80px;
+}
+
+#logo{
+	padding: 45px 0 0 85px;
+	color: white;
+}
+
+#corps{
+	margin: 70px 150px 0 150px;
+	height: 300px;
+	/*background-color: #cff4fe;*/
+}
+#partie_gauche{
+	float: left;
+	width: 700px;
+	height: 300px;
+	/*background-color: #006682;*/
+}
+
+#partie_droite{
+	height: 300px;
+	/*background-color: #0fa200;*/
+}
+
+#pied{
+	margin: 150px 85px 0 85px;
+	/*background-color: #ba89f9;*/
+}
+
+#pied_gauche{
+	float: left;
+	width: 800px;
+	/*background-color: #69e6fc;*/
+	color: white;
+}
+
+#pied_droite{
+	/*background-color: #01505e;*/
+	color: white;
+}
+
+#kleen{
+	font-size: 75px;
+	color: white;
+}
+
+#elegant_simple{
+	font-size: 32px;
+	color: white;
+}
+
+#detail_produit{
+	color: white;
+}
+
+#prix{
+	margin: 0 0 10px 0;
+	color: white;
+}
+
+#add_to_cart{
+	color: white;
+}
+
+#trait{
+	background-color: #FFFFFF;
+	width: 95px;
+	height: 1px;
+}
+
+#principal{
+	background-color: #21b300;
+}
+/* 02 */
+#partie_02{
+	float: left;
+	margin-top: -7px;
+	color: white;
+}
+/*trait qui separe 02 and 05*/
+#sep{
+	margin: 0 20px 0 720px;
+	background-color: white;
+	height: 1px;
+}
+/* 05 */
+#partie_05{
+	float: right;
+	margin-top: -7px;
+	color: white;
+}
